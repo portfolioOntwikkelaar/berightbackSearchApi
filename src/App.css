@@ -6,7 +6,8 @@
 
 html,
 body {
-  background: #000 url('img/bg.jpg') no-repeat center center/cover;
+  /* background: #000 url('img/bg.jpg') no-repeat center center/cover; */
+  background-image: linear-gradient(to right, #1b1619, #3a1f24, #572b21, #664113, #615d03, #527830, #389161, #00a796, #4cbacb, #97caea, #d3dbf6, #f8f2fc);
   height: 100vh;
   color: #fff;
   font-family: Arial, Helvetica, sans-serif;
